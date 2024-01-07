@@ -1,5 +1,0 @@
-.vagrant/
-*.log
-Vagrantfile
-bootstrap.sh
-build
